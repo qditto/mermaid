@@ -15391,19 +15391,19 @@ img.lazy:not([src]) {
 @media (min-width: 992px) {
   .header-wrap-clone {
     display: block;
-    height: 101px;
+    height: 301px;
   }
 
   .header-size-sm .header-wrap-clone {
-    height: 61px;
+    height: 181px;
   }
 
   .header-size-md .header-wrap-clone {
-    height: 81px;
+    height: 241px;
   }
 
   .header-size-lg .header-wrap-clone {
-    height: 121px;
+    height: 361px;
   }
 }
 
@@ -15447,16 +15447,16 @@ img.lazy:not([src]) {
   }
 
   #header.floating-header + .include-header {
-    margin-top: -162px;
+    margin-top: -362px;
   }
 
   #header.transparent-header + .page-title-parallax.include-header .container {
     z-index: 5;
-    padding-top: 100px;
+    padding-top: 300px;
   }
 
   #header + .include-header {
-    margin-top: -102px;
+    margin-top: -302px;
     display: inline-block;
     vertical-align: bottom;
     width: 100%;
@@ -15624,7 +15624,7 @@ img.lazy:not([src]) {
   display: block;
   max-width: 100%;
   max-height: 100%;
-  height: 100px;
+  height: 300px;
 }
 
 @media (min-width: 992px) {
@@ -15635,15 +15635,15 @@ img.lazy:not([src]) {
 }
 
 .header-size-sm #header-wrap #logo img {
-  height: 60px;
+  height: 180px;
 }
 
 .header-size-md #header-wrap #logo img {
-  height: 80px;
+  height: 240px;
 }
 
 .header-size-lg #header-wrap #logo img {
-  height: 120px;
+  height: 360px;
 }
 
 @media (min-width: 992px) {
@@ -15896,23 +15896,23 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 
 @media (min-width: 992px) {
   .menu-link {
-    padding: 39px 15px;
+    padding: 139px 15px;
     transition: margin 0.4s ease, padding 0.4s ease;
   }
 
   .header-size-sm .menu-container > .menu-item > .menu-link {
-    padding-top: 19px;
-    padding-bottom: 19px;
+    padding-top: 79px;
+    padding-bottom: 79px;
   }
 
   .header-size-md .menu-container > .menu-item > .menu-link {
-    padding-top: 29px;
-    padding-bottom: 29px;
+    padding-top: 109px;
+    padding-bottom: 109px;
   }
 
   .header-size-lg .menu-container > .menu-item > .menu-link {
-    padding-top: 49px;
-    padding-bottom: 49px;
+    padding-top: 169px;
+    padding-bottom: 169px;
   }
 
   .sticky-header-shrink .menu-container > .menu-item > .menu-link {

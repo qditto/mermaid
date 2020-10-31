@@ -1,3 +1,5 @@
 {
-    "/css/frontend/style.css": "/css/frontend/style.css"
+    "/css/frontend/style.css": "/css/frontend/style.css",
+    "/css/frontend/bootstrap.css": "/css/frontend/bootstrap.css",
+    "/css/frontend/dark.css": "/css/frontend/dark.css"
 }

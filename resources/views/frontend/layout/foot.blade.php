@@ -257,9 +257,9 @@ Copyrights &copy; 2020 All Rights Reserved by Canvas Inc.<br>
 
 	<!-- JavaScripts
 ============================================= -->
-	<script src="js/jquery.js"></script>
-	<script src="js/plugins.min.js"></script>
+	<script src="js/frontend/jquery.js"></script>
+	<script src="js/frontend/plugins.min.js"></script>
 
 	<!-- Footer Scripts
 ============================================= -->
-	<script src="js/functions.js"></script>
+	<script src="js/frontend/functions.js"></script>
